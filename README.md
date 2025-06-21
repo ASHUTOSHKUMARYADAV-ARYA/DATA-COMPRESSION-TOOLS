@@ -11,7 +11,7 @@
 
 *MENTOR NAME* : NEELA SANTHOSH KUMAR
 
-##*Data Compression – A Detailed Description (Within 600 Words)*
+##*Data Compression – A Detailed Description 
 
 Data compression is a technique used to reduce the size of digital data. It allows us to store and transmit information more efficiently by using fewer bits than the original representation. Whether it's saving space on a hard drive, speeding up file transfers, or reducing bandwidth usage, data compression plays a vital role in the modern digital world.
 
