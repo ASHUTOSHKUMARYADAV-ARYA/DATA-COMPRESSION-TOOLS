@@ -64,3 +64,6 @@ Data compression is mainly of two types:
 Data compression is a crucial part of digital technology. It helps manage large amounts of data, saves space, speeds up communication, and enables better user experiences. As the world continues to produce more digital content, efficient compression techniques will become even more important.
 
 Whether you're downloading an app, watching a YouTube video, or sending an email, data compression is silently working in the background to make it all faster and more efficient.
+
+#OUTPUT 
+![Image](https://github.com/user-attachments/assets/de246131-0dda-4f90-ade3-db028d449a05)
