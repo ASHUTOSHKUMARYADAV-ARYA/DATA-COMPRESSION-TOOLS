@@ -66,4 +66,4 @@ Data compression is a crucial part of digital technology. It helps manage large 
 Whether you're downloading an app, watching a YouTube video, or sending an email, data compression is silently working in the background to make it all faster and more efficient.
 
 #OUTPUT 
-![Image](https://github.com/user-attachments/assets/de246131-0dda-4f90-ade3-db028d449a05)
+![Image](https://github.com/user-attachments/assets/adc9ae2f-6a70-44f5-8bf4-9a59c2a5c231)
